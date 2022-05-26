@@ -1,3 +1,5 @@
+//in this lab using dichotomy method, and the iteration method
+
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
